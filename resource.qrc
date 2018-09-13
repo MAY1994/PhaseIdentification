@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Image/PI.png</file>
+    </qresource>
+</RCC>
